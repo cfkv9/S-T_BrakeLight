@@ -21,3 +21,5 @@ http://www.mouser.com/Search/ProductDetail.aspx?R=XPEBRD-L1-0000-00601virtualkey
 These are the resistor style:
 https://www.mouser.com/ProductDetail/279-35205R6JT?R=35205R6JTvirtualkey20420000virtualkey279-35205R6JT
 
+Tutorial Videos on Eagle
+https://www.youtube.com/playlist?list=PLB4C63828A483E756
